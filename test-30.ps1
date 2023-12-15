@@ -1,0 +1,1 @@
+. "$PSScriptRoot/30 install-package.ps1" -siteurl "https://365adm.sharepoint.com/sites/intra365" 

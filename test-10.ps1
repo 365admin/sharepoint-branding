@@ -1,1 +1,1 @@
-. "/$PSScriptRoot/10 get-appcatalogueurl.ps1"
+. "$PSScriptRoot/10 get-appcatalogueurl.ps1"

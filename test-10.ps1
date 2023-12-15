@@ -1,0 +1,1 @@
+. "/$PSScriptRoot/10 get-appcatalogueurl.ps1"

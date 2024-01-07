@@ -1,1 +1,0 @@
-. "$PSScriptRoot/20 apply-sitetemplate.ps1" -siteurl "https://365adm.sharepoint.com/sites/intra365"  -siteTemplateDownloadLink ""
